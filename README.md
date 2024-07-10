@@ -1,2 +1,2 @@
-# DSA-Assignment-1
-Group Assignment 1 for DSA
+# DSA-project-1
+Item 1 for DSA
